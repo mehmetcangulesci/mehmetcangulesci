@@ -1,6 +1,6 @@
-<h1>👋 Hi There, I'm Mehmetcan</h1>
+## 👋 Hi There, I'm Mehmetcan
 
-<h4>Senior Software Engineer</h4>
+#### Senior Software Engineer
 
 <h1>
     <a href="https://twitter.com/azmimengu" target="_blank"> 
